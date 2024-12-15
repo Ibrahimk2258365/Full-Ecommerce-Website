@@ -11,7 +11,7 @@ This is a full-stack e-commerce application with features such as user authentic
 ## Screenshots
 
 ### Homepage
-![Homepage](docs/Screenshotpage1.png)
+![Homepage](docs/Screenshot page1.png)
 
 ### Login Page
 ![contact us  Page](docs/Screenshotpage2.png)
